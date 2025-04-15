@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1639004828 source:c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\eedd-master\tipos.cpp
+	<iostream>
+	"Tipos.h"
+
+1639002978 
+
+1639002978 c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\eedd-master\tipos.h
+	<iostream>
+
+1639251787 source:c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\eedd-master\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	"Tipos.h"
+
+1639004828 source:/home/javi/Uni/EEDD2/PECL2/Tipos.cpp
+	<iostream>
+	"Tipos.h"
+
+1639002978 /home/javi/Uni/EEDD2/PECL2/Tipos.h
+	<iostream>
+
+1639254289 source:/home/javi/Uni/EEDD2/PECL2/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	"Tipos.h"
+
+1639328544 source:c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\eedd2-master\pecl2\tipos.cpp
+	<iostream>
+	"Tipos.h"
+
+1639328544 c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\eedd2-master\pecl2\tipos.h
+	<iostream>
+
+1639525524 source:c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\prueba eedd2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1639525223 c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\prueba eedd2\tipos.h
+	<iostream>
+
+1639434705 source:c:\users\santi\documents\universidad\2do año\tercer cuatri\estructura de datos\prueba eedd2\tipos.cpp
+	<iostream>
+	"Tipos.h"
+
+1639533045 source:c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\bases de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1639532709 c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\bases de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\tipos.h
+	<iostream>
+
+1639533045 source:c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\bases de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
+1639529445 source:c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\estructura de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1639529109 c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\estructura de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\tipos.h
+	<iostream>
+
+1639529445 source:c:\users\danua\onedrive\documentos\uah\2º curso\1º cuatrimestre\estructura de datos\santiagohernandezdelgado\santiagohernandezdelgado\programa\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
+1670946864 source:c:\users\uah\desktop\pl2\programa\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
+1670602049 c:\users\uah\desktop\pl2\programa\tipos.h
+	<iostream>
+
+1670951258 source:c:\users\uah\desktop\pl2\programa\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1670601963 source:c:\users\uah\desktop\pl2 listas simples - copia\programa\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1670602049 c:\users\uah\desktop\pl2 listas simples - copia\programa\tipos.h
+	<iostream>
+
+1670602049 source:c:\users\uah\desktop\pl2 listas simples - copia\programa\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
+1670946864 source:c:\users\cnogue\desktop\programa1\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
+1670602049 c:\users\cnogue\desktop\programa1\tipos.h
+	<iostream>
+
+1671039150 source:c:\users\cnogue\desktop\programa1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	"Tipos.h"
+
+1744646380 source:c:\users\uah\desktop\entrega\entrega\programa\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<cmath>
+	"Tipos.h"
+
+1670602049 c:\users\uah\desktop\entrega\entrega\programa\tipos.h
+	<iostream>
+
+1744645188 source:c:\users\uah\desktop\entrega\entrega\programa\tipos.cpp
+	<iostream>
+	<cstdlib>
+	"Tipos.h"
+	<iomanip>
+
